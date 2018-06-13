@@ -1201,9 +1201,9 @@ graceful-fs@^4.1.2:
   version "4.1.11"
   resolved "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.1.11.tgz#0e8bdfe4d1ddb8854d64e04ea7c00e2a026e5658"
 
-happo.io@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.npmjs.org/happo.io/-/happo.io-1.4.0.tgz#e671a966bbb3e0366a58f72be277df03052fdac2"
+happo.io@^1.5.0-rc.1:
+  version "1.5.0-rc.1"
+  resolved "https://registry.npmjs.org/happo.io/-/happo.io-1.5.0-rc.1.tgz#bbb32c2cd1fdea2b7b293d6b38b6be20eb6b093d"
   dependencies:
     babel-polyfill "^6.26.0"
     babel-preset-react "^6.24.1"

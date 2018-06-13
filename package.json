@@ -6,11 +6,12 @@
   "author": "Henric Trotzig <henric.trotzig@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "happo": "happo"
+    "happo": "happo",
+    "happo-ci": "happo-ci-travis"
   },
   "dependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
-    "happo.io": "^1.4.0"
+    "happo.io": "^1.5.0-rc.1"
   }
 }
