@@ -6,7 +6,8 @@
   "author": "Henric Trotzig <henric.trotzig@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "happo": "happo"
+    "happo": "happo",
+    "happo-ci": "happo-ci-travis"
   },
   "dependencies": {
     "babel-core": "^6.26.3",
