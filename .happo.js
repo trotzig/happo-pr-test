@@ -1,7 +1,7 @@
 const { RemoteBrowserTarget } = require('happo.io');
 
 module.exports = {
-  endpoint: 'http://9d74a825.ngrok.io',
+  endpoint: 'http://4b773133.ngrok.io',
   apiKey: 'abce207e27',
   apiSecret: process.env.HAPPO_API_SECRET,
   targets: {
